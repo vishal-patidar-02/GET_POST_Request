@@ -1,0 +1,15 @@
+{
+  "name": "get_post",
+  "version": "1.0.0",
+  "description": "GET & POST methods Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishal patidar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
